@@ -1,7 +1,7 @@
 # Wellington_Felix
 # 👋 Olá, eu sou o Wellington Félix
 
-🎓 Estudante de **Engenharia de Software** — UDF Centro Universitário (2024–2028)
+🎓 Estudante de **Engenharia de Software**
 💻 Focado em **desenvolvimento backend** com **Java + Spring Boot**
 🌐 Conhecimento em **frontend** com **HTML, CSS, JavaScript e Angular**
 🛠️ Experiência com **MySQL**, **Git**, **GitHub** e arquitetura **MVC**
