@@ -41,6 +41,9 @@ Meu objetivo é seguir crescendo como desenvolvedor backend e contribuir em proj
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felixtire\&layout=compact\&theme=tokyonight)
 
 ---
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixTire&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixTire&layout=compact&theme=tokyonight)
+
 
 ## 💬 Contato
 
