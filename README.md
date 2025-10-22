@@ -1,4 +1,3 @@
-# Wellington_Felix
 # 👋 Olá, eu sou o Wellington Félix
 
 🎓 Estudante de **Engenharia de Software**
